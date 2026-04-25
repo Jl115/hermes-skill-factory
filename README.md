@@ -44,7 +44,7 @@ Say **C** and it writes both files immediately:
 **Requirements:** Hermes Agent v2026.3+
 
 ```bash
-git clone https://github.com/your-username/hermes-skill-factory
+git clone https://github.com/jl115/hermes-skill-factory
 cd hermes-skill-factory
 bash install.sh
 ```
